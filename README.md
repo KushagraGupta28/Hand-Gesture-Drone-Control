@@ -18,15 +18,7 @@ Independently control two drones using both hands, enabling parallel navigation 
 🧠 ANN-Based Gesture Recognition
 An Artificial Neural Network (ANN) trained on MediaPipe landmarks ensures accurate interpretation of complex gestures, minimizing errors in command execution.
 
-Technologies Used
 
-MediaPipe – Hand landmark detection
-
-TensorFlow/Keras – ANN training for gesture recognition
-
-SpeechRecognition / PyAudio – Voice command processing
-
-Drone SDK (e.g., DJI/Tello SDK) – Interface with drones (replace with actual SDK used)
 
 How It Works
 
